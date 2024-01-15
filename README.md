@@ -46,9 +46,9 @@ I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mausamtiwari&theme=vision-friendly-dark)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mausamtiwari&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mausamtiwari&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mausamtiwari&layout=compact&theme=vision-friendly-dark)
 
 
 ---
