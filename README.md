@@ -26,7 +26,7 @@ I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my free time, I read tech articles and watch tech videos.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mausamt/)
+- :mailbox:How to reach me: [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/mausamt/)
 
 ---
 
